@@ -1,0 +1,133 @@
+[
+    {
+        "id": "taza-rayada-azul",
+        "titulo": "Taza Rayada Azul",
+        "imagen": "./images/tazas/taza-rayada-azul.jpg",
+        "categoria": {
+            "nombre": "Tazas",
+            "id": "tazas"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "taza-lunares",
+        "titulo": "Taza Lunares",
+        "imagen": "./images/tazas/taza-lunares.jpg",
+        "categoria": {
+            "nombre": "Tazas",
+            "id": "tazas"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "taza-rayas-marron",
+        "titulo": "Taza Rayada Marrón",
+        "imagen": "./images/tazas/taza-rayada-marron.jpg",
+        "categoria": {
+            "nombre": "Tazas",
+            "id": "tazas"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "taza-negra",
+        "titulo": "Taza Negra",
+        "imagen": "./images/tazas/taza-negra.jpeg",
+        "categoria": {
+            "nombre": "Tazas",
+            "id": "tazas"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "bowl-liso",
+        "titulo": "Bowl Liso",
+        "imagen": "./images/bowls/bowl-liso.jpeg",
+        "categoria": {
+            "nombre": "Bowls",
+            "id": "bowls"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "bowl-lunares",
+        "titulo": "Bowl Lunares",
+        "imagen": "./images/bowls/bowl-lunares.jpg",
+        "categoria": {
+            "nombre": "Bowls",
+            "id": "bowls"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "bowl-rayado",
+        "titulo": "Bowl Rayado",
+        "imagen": "./images/bowls/bowl-rayado.jpg",
+        "categoria": {
+            "nombre": "Bowls",
+            "id": "bowls"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "florero-rayado",
+        "titulo": "Florero Rayado",
+        "imagen": "./images/floreros/florero-rayado.jpeg",
+        "categoria": {
+            "nombre": "Floreros",
+            "id": "floreros"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "florero-curvas",
+        "titulo": "Florero Curvas",
+        "imagen": "./images/floreros/florero-curvas.jpg",
+        "categoria": {
+            "nombre": "Floreros",
+            "id": "floreros"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "florero-lunares",
+        "titulo": "Florero Lunares",
+        "imagen": "./images/floreros/florero-lunares.jpg",
+        "categoria": {
+            "nombre": "Floreros",
+            "id": "floreros"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "plato-cuadrados",
+        "titulo": "Plato Cuadrados",
+        "imagen": "./images/platos/plato-cuadrados.jpg",
+        "categoria": {
+            "nombre": "Platos",
+            "id": "platos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "plato-marble",
+        "titulo": "Plato Marble",
+        "imagen": "./images/platos/plato-marble.jpg",
+        "categoria": {
+            "nombre": "Platos",
+            "id": "platos"
+        },
+        "precio": 1000
+    }
+
+]
